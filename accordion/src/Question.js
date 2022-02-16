@@ -1,8 +1,10 @@
 import React, { useState } from "react";
 import { BsPlusCircleFill } from "react-icons/bs";
 import { HiMinusCircle } from "react-icons/hi";
+
 const Question = ({ title, info }) => {
   const [showInfo, setShowInfo] = useState(false);
+
   return (
     <article className="question">
       <header>
