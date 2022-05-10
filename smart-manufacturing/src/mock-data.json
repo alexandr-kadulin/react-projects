@@ -1,0 +1,902 @@
+[
+  {
+    "id": "1af545bc-017e-408b-8124-ee22e1c8d107",
+    "name": "Hirthe-Bergstrom",
+    "description": "volutpat quam pede lobortis ligula sit amet eleifend pede",
+    "latitude": -8.0941273,
+    "longitude": 112.274168,
+    "status": "Idle",
+    "address": "645 Banding Drive"
+  },
+  {
+    "id": "0bc943f5-1ae4-4eef-b797-5a9997ffa8c3",
+    "name": "King, Kub and Howell",
+    "description": "ipsum primis in faucibus orci",
+    "latitude": 46.0675028,
+    "longitude": 44.4160763,
+    "status": "Idle",
+    "address": "121 Scott Crossing"
+  },
+  {
+    "id": "040aac67-a6d6-4be4-8579-42fe7c3ac674",
+    "name": "Gaylord Inc",
+    "description": "leo maecenas pulvinar lobortis est phasellus sit amet erat nulla",
+    "latitude": 19.27898,
+    "longitude": -99.1653351,
+    "status": "Operative",
+    "address": "7901 Hooker Place"
+  },
+  {
+    "id": "20ad7f41-89ce-4075-ac2b-3318314739ac",
+    "name": "Hilll-Glover",
+    "description": "ut nulla sed accumsan felis ut at dolor quis odio",
+    "latitude": 7.428615,
+    "longitude": 123.42403,
+    "status": "Idle",
+    "address": "058 Union Pass"
+  },
+  {
+    "id": "a490da17-9d05-42f1-b736-2aa000a32324",
+    "name": "Morissette-Strosin",
+    "description": "mauris non ligula pellentesque ultrices phasellus id sapien",
+    "latitude": -25.7770273,
+    "longitude": -64.957693,
+    "status": "Operative",
+    "address": "61 John Wall Trail"
+  },
+  {
+    "id": "f6e0d169-c98c-44d6-90e1-34d0c545c102",
+    "name": "Reichert-Lebsack",
+    "description": "maecenas tincidunt lacus at velit vivamus",
+    "latitude": -27.574998,
+    "longitude": -50.1626664,
+    "status": "Dismissed",
+    "address": "93 Ridge Oak Park"
+  },
+  {
+    "id": "d0ffb0cc-4583-40bb-8bf1-609fdbd4903a",
+    "name": "Kuphal Group",
+    "description": "nisl aenean lectus pellentesque eget",
+    "latitude": 51.7147076,
+    "longitude": 21.7780514,
+    "status": "Idle",
+    "address": "2821 Straubel Drive"
+  },
+  {
+    "id": "7825d519-3770-45dc-b2cb-8983362e53a9",
+    "name": "Kuhlman Group",
+    "description": "suspendisse ornare consequat lectus in est risus auctor sed tristique",
+    "latitude": 29.229569,
+    "longitude": 107.186194,
+    "status": "Dismissed",
+    "address": "694 Fisk Drive"
+  },
+  {
+    "id": "3d42d836-234f-440e-821a-7b5403097e4b",
+    "name": "Funk, Stiedemann and Corwin",
+    "description": "eget eros elementum pellentesque quisque porta volutpat",
+    "latitude": 39.239268,
+    "longitude": 113.494587,
+    "status": "Dismissed",
+    "address": "4560 Forest Run Junction"
+  },
+  {
+    "id": "f34b087d-f564-4704-b454-f898a3b7bbdf",
+    "name": "Klein-Dickens",
+    "description": "at nulla suspendisse potenti cras in",
+    "latitude": 53.9256842,
+    "longitude": 51.2577545,
+    "status": "Idle",
+    "address": "0 Holy Cross Avenue"
+  },
+  {
+    "id": "59b7990f-c4d3-4ae1-8b75-d359b46a1703",
+    "name": "Gutkowski Group",
+    "description": "ac est lacinia nisi venenatis tristique fusce congue diam",
+    "latitude": -6.2568393,
+    "longitude": 106.855853,
+    "status": "Operative",
+    "address": "50 Holmberg Place"
+  },
+  {
+    "id": "2f9df54b-55d7-4bb8-880f-5e7d546f65ff",
+    "name": "Stokes Inc",
+    "description": "sagittis sapien cum sociis natoque penatibus et magnis dis",
+    "latitude": -5.4736254,
+    "longitude": 104.6471221,
+    "status": "Operative",
+    "address": "2088 Superior Street"
+  },
+  {
+    "id": "ca169508-abec-41c9-8974-835625434450",
+    "name": "Legros and Sons",
+    "description": "nulla nunc purus phasellus in felis donec semper sapien a",
+    "latitude": 45.5155832,
+    "longitude": -122.6788535,
+    "status": "Dismissed",
+    "address": "25737 Center Plaza"
+  },
+  {
+    "id": "b8f36cfb-2ec6-4e20-9615-bc641f842cde",
+    "name": "Mueller, McCullough and Ratke",
+    "description": "luctus rutrum nulla tellus in sagittis dui vel",
+    "latitude": 5.4356367,
+    "longitude": 100.3091,
+    "status": "Idle",
+    "address": "9 Kenwood Way"
+  },
+  {
+    "id": "fd5e8b66-fe06-49fe-bddb-5f511352b42d",
+    "name": "Towne-Kautzer",
+    "description": "purus aliquet at feugiat non pretium quis lectus suspendisse",
+    "latitude": -4.5702358,
+    "longitude": 30.1011836,
+    "status": "Dismissed",
+    "address": "3730 Kinsman Alley"
+  },
+  {
+    "id": "897a3a30-e7b1-4fa7-8330-56ad05612c98",
+    "name": "Becker, Keebler and Rohan",
+    "description": "penatibus et magnis dis parturient",
+    "latitude": 8.89508,
+    "longitude": -76.35459,
+    "status": "Idle",
+    "address": "686 Stephen Drive"
+  },
+  {
+    "id": "6178bf28-8539-45f4-a556-b89e9347d713",
+    "name": "Marquardt-Farrell",
+    "description": "nisl duis bibendum felis sed interdum venenatis turpis enim blandit",
+    "latitude": 51.03701,
+    "longitude": 36.7302535,
+    "status": "Operative",
+    "address": "41 Russell Lane"
+  },
+  {
+    "id": "4f8b060b-abd3-4d22-a37b-b05069197f24",
+    "name": "Paucek, Bernier and Grimes",
+    "description": "morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed",
+    "latitude": 10.527138,
+    "longitude": 122.813931,
+    "status": "Dismissed",
+    "address": "55 Park Meadow Crossing"
+  },
+  {
+    "id": "40196e79-aad7-45d3-9334-0f4ceffebd8a",
+    "name": "Wintheiser-Hegmann",
+    "description": "primis in faucibus orci luctus et",
+    "latitude": -9.5541709,
+    "longitude": 119.0285355,
+    "status": "Operative",
+    "address": "28 Kinsman Point"
+  },
+  {
+    "id": "ec18e2e4-b48b-4708-9e28-9b580fcc8a90",
+    "name": "McClure-Hane",
+    "description": "orci eget orci vehicula condimentum curabitur in libero ut",
+    "latitude": 29.476705,
+    "longitude": 121.869339,
+    "status": "Idle",
+    "address": "5068 Ronald Regan Hill"
+  },
+  {
+    "id": "d23e6bc3-f9c9-4d8a-8b73-6c511db354b3",
+    "name": "Johnson-Koch",
+    "description": "in leo maecenas pulvinar lobortis",
+    "latitude": 55.2259313,
+    "longitude": 36.6083916,
+    "status": "Operative",
+    "address": "65 Independence Parkway"
+  },
+  {
+    "id": "9bb2cc88-7bc4-41f1-92a4-f8f2886d0115",
+    "name": "Collier-Grant",
+    "description": "nunc nisl duis bibendum felis sed",
+    "latitude": 7.2357275,
+    "longitude": -8.98527,
+    "status": "Dismissed",
+    "address": "4 Oak Drive"
+  },
+  {
+    "id": "644d29e0-337e-47fc-a923-9edee5ada36f",
+    "name": "Marvin-Lang",
+    "description": "aliquam augue quam sollicitudin vitae consectetuer eget",
+    "latitude": 48.6160168,
+    "longitude": 35.398479,
+    "status": "Dismissed",
+    "address": "3039 Morningstar Road"
+  },
+  {
+    "id": "0c22df29-e72d-4788-939e-329a85674974",
+    "name": "Russel Group",
+    "description": "nunc viverra dapibus nulla suscipit",
+    "latitude": 52.0610443,
+    "longitude": 17.8504238,
+    "status": "Dismissed",
+    "address": "92587 Mendota Street"
+  },
+  {
+    "id": "e7b3e0f5-a669-4425-90a3-02600c83e47b",
+    "name": "Kshlerin-Aufderhar",
+    "description": "ultrices posuere cubilia curae donec pharetra magna vestibulum",
+    "latitude": 50.2804989,
+    "longitude": 127.5159741,
+    "status": "Idle",
+    "address": "80587 Blaine Lane"
+  },
+  {
+    "id": "d7488489-0bb1-4a05-a689-f16dc7a6711d",
+    "name": "Purdy-Goyette",
+    "description": "justo aliquam quis turpis eget elit",
+    "latitude": 24.4571847,
+    "longitude": 90.5486962,
+    "status": "Dismissed",
+    "address": "341 Meadow Valley Center"
+  },
+  {
+    "id": "648e5de0-f0c8-4748-b336-45c439ba0874",
+    "name": "Bergnaum-Douglas",
+    "description": "amet consectetuer adipiscing elit proin risus",
+    "latitude": 48.9126632,
+    "longitude": 2.4201634,
+    "status": "Operative",
+    "address": "2 Ohio Trail"
+  },
+  {
+    "id": "7359b1e4-ce40-4752-baad-6bdee2d0656c",
+    "name": "Welch, Olson and Boehm",
+    "description": "nulla ac enim in tempor turpis nec euismod scelerisque quam",
+    "latitude": 53.3914918,
+    "longitude": 142.9582995,
+    "status": "Dismissed",
+    "address": "5 Vahlen Drive"
+  },
+  {
+    "id": "61483458-1fba-4547-966b-d4ae65344c9d",
+    "name": "Rutherford and Sons",
+    "description": "augue quam sollicitudin vitae consectetuer eget rutrum at",
+    "latitude": 43.3156727,
+    "longitude": -0.4289432,
+    "status": "Idle",
+    "address": "798 Marcy Lane"
+  },
+  {
+    "id": "e20b4ccc-0abb-4a46-9986-94fe9ce2b59c",
+    "name": "Buckridge-Hilpert",
+    "description": "morbi quis tortor id nulla",
+    "latitude": 39.1538529,
+    "longitude": 127.4460001,
+    "status": "Idle",
+    "address": "3997 Donald Road"
+  },
+  {
+    "id": "2a4312fb-bee7-4d7d-ba4a-e7c80156de81",
+    "name": "Denesik, Homenick and Moore",
+    "description": "a nibh in quis justo maecenas",
+    "latitude": 43.6,
+    "longitude": -96.7099999,
+    "status": "Operative",
+    "address": "25 Warrior Trail"
+  },
+  {
+    "id": "645be219-6f8b-4323-a4dc-5ffdb4d2476e",
+    "name": "Goyette Group",
+    "description": "aliquet massa id lobortis convallis tortor risus dapibus augue",
+    "latitude": -21.2401568,
+    "longitude": -48.8058237,
+    "status": "Operative",
+    "address": "801 International Way"
+  },
+  {
+    "id": "f3d5258b-fc6f-4edf-a788-5c0f1d43dd5e",
+    "name": "Blanda-Buckridge",
+    "description": "penatibus et magnis dis parturient montes nascetur",
+    "latitude": 48.1510123,
+    "longitude": -80.0330343,
+    "status": "Operative",
+    "address": "12 Crescent Oaks Parkway"
+  },
+  {
+    "id": "9e49f900-f8b0-4594-8e41-5a2872544d57",
+    "name": "Boyle-Torp",
+    "description": "non velit nec nisi vulputate nonummy",
+    "latitude": 52.8861365,
+    "longitude": -118.0572366,
+    "status": "Idle",
+    "address": "84 Lawn Hill"
+  },
+  {
+    "id": "40b89b53-0697-4676-b853-53ca4b1c3c6a",
+    "name": "Paucek-Bruen",
+    "description": "in faucibus orci luctus et ultrices posuere cubilia curae",
+    "latitude": 36.097577,
+    "longitude": 114.392392,
+    "status": "Operative",
+    "address": "81 Charing Cross Trail"
+  },
+  {
+    "id": "bfe3c936-5fd6-437e-935d-0a50cfa18285",
+    "name": "Mayert Inc",
+    "description": "ut suscipit a feugiat et eros vestibulum ac est",
+    "latitude": 5.5864963,
+    "longitude": 95.3514016,
+    "status": "Operative",
+    "address": "5 Harbort Trail"
+  },
+  {
+    "id": "155142db-9ada-459f-b32b-446c1855e5ae",
+    "name": "Nitzsche-Watsica",
+    "description": "ut massa quis augue luctus tincidunt nulla mollis molestie",
+    "latitude": 41.4204087,
+    "longitude": -8.3676461,
+    "status": "Dismissed",
+    "address": "6890 Fairview Center"
+  },
+  {
+    "id": "4e89f38e-7753-49c9-affa-82b6971a21c1",
+    "name": "Aufderhar and Sons",
+    "description": "lorem ipsum dolor sit amet consectetuer adipiscing elit",
+    "latitude": -1.241956,
+    "longitude": 29.9856157,
+    "status": "Operative",
+    "address": "95771 Village Green Circle"
+  },
+  {
+    "id": "42401cf5-ffad-4e59-90c3-d71cb0913f3f",
+    "name": "Langworth Group",
+    "description": "semper interdum mauris ullamcorper purus sit amet nulla quisque arcu",
+    "latitude": 48.7803815,
+    "longitude": 2.4549884,
+    "status": "Idle",
+    "address": "58 Stuart Pass"
+  },
+  {
+    "id": "a4181b52-51f8-412a-ac65-f5fc0a267849",
+    "name": "Howe-Little",
+    "description": "duis aliquam convallis nunc proin at",
+    "latitude": 35.3922378,
+    "longitude": -97.4273195,
+    "status": "Dismissed",
+    "address": "1486 Lake View Crossing"
+  },
+  {
+    "id": "b545c92e-149f-4788-8033-9242a750d587",
+    "name": "Schaefer Group",
+    "description": "mi sit amet lobortis sapien sapien non mi integer",
+    "latitude": 39.7443294,
+    "longitude": -89.7286056,
+    "status": "Idle",
+    "address": "4006 Toban Parkway"
+  },
+  {
+    "id": "db72f175-ddda-4810-b2cf-172e2560f633",
+    "name": "Schowalter Inc",
+    "description": "amet lobortis sapien sapien non mi integer ac neque",
+    "latitude": 43.690835,
+    "longitude": 18.7940562,
+    "status": "Dismissed",
+    "address": "7945 Dwight Junction"
+  },
+  {
+    "id": "c1d5e3ba-0d94-4c8a-b392-e6f234ff0db0",
+    "name": "Kreiger LLC",
+    "description": "metus vitae ipsum aliquam non mauris morbi",
+    "latitude": 42.0813751,
+    "longitude": 48.2792467,
+    "status": "Dismissed",
+    "address": "72 Sugar Center"
+  },
+  {
+    "id": "967c7f7f-e7cf-4cc6-b10c-ad1d7c0e5cf1",
+    "name": "Deckow, Beatty and Reichel",
+    "description": "rutrum nulla nunc purus phasellus in felis donec semper sapien",
+    "latitude": 60.722442,
+    "longitude": 114.8315052,
+    "status": "Idle",
+    "address": "0 Fairview Lane"
+  },
+  {
+    "id": "2f0ef7b3-73fc-43cb-bb5d-17c6c7dd10df",
+    "name": "Ward, Schneider and Zieme",
+    "description": "proin risus praesent lectus vestibulum quam sapien varius ut",
+    "latitude": -34.0896763,
+    "longitude": 23.3261801,
+    "status": "Operative",
+    "address": "92 Knutson Park"
+  },
+  {
+    "id": "cc78323b-745c-48f3-b282-4b4e08937e7a",
+    "name": "Schmitt, Stracke and Ferry",
+    "description": "ridiculus mus etiam vel augue vestibulum rutrum rutrum",
+    "latitude": 36.3645281,
+    "longitude": 37.0158772,
+    "status": "Dismissed",
+    "address": "46 Sutteridge Terrace"
+  },
+  {
+    "id": "a24aca08-dccb-4e78-af1e-f5a073718960",
+    "name": "Jakubowski LLC",
+    "description": "congue vivamus metus arcu adipiscing molestie hendrerit",
+    "latitude": 31.918232,
+    "longitude": 119.976948,
+    "status": "Operative",
+    "address": "0559 Fallview Center"
+  },
+  {
+    "id": "38b72272-0ca3-4d59-af45-4d00b4b16c6b",
+    "name": "Schamberger and Sons",
+    "description": "rutrum at lorem integer tincidunt ante",
+    "latitude": 40.5341079,
+    "longitude": 70.9309024,
+    "status": "Dismissed",
+    "address": "2 Hoard Drive"
+  },
+  {
+    "id": "365c1a2e-72b0-4c19-b088-67b3d9ef93bc",
+    "name": "Schuppe-Daniel",
+    "description": "cubilia curae nulla dapibus dolor vel est donec odio",
+    "latitude": 59.93387,
+    "longitude": 10.7238762,
+    "status": "Dismissed",
+    "address": "28 Straubel Road"
+  },
+  {
+    "id": "eac61e5e-26ea-40e0-80db-057bed4a0477",
+    "name": "Wintheiser-Stamm",
+    "description": "ac tellus semper interdum mauris ullamcorper purus sit",
+    "latitude": 27.088049,
+    "longitude": 119.647769,
+    "status": "Idle",
+    "address": "22850 Rieder Crossing"
+  },
+  {
+    "id": "d3c444ef-f52f-483f-8be3-c80cf12cb2eb",
+    "name": "Mosciski Group",
+    "description": "venenatis lacinia aenean sit amet justo morbi",
+    "latitude": 49.5372506,
+    "longitude": 16.8773821,
+    "status": "Idle",
+    "address": "65 Hintze Point"
+  },
+  {
+    "id": "11fd2b2e-5302-43cd-9634-3238a9042084",
+    "name": "Von-Wyman",
+    "description": "at lorem integer tincidunt ante vel ipsum praesent blandit",
+    "latitude": 36.195409,
+    "longitude": 113.116404,
+    "status": "Operative",
+    "address": "07 Lakeland Avenue"
+  },
+  {
+    "id": "7929c5d2-ea44-4191-b42f-7633a6022c98",
+    "name": "O'Keefe-Hettinger",
+    "description": "etiam faucibus cursus urna ut tellus nulla ut erat",
+    "latitude": 8.920465,
+    "longitude": 125.008956,
+    "status": "Idle",
+    "address": "0 Carpenter Street"
+  },
+  {
+    "id": "f36aac0a-ef06-413a-8054-dd392d9af3c8",
+    "name": "Miller Inc",
+    "description": "nisl duis ac nibh fusce",
+    "latitude": 49.224335,
+    "longitude": 15.6616683,
+    "status": "Operative",
+    "address": "577 Warbler Hill"
+  },
+  {
+    "id": "f92208f2-5700-4410-947e-1716a1f6fc1e",
+    "name": "Kris, Gerhold and Wisozk",
+    "description": "vitae nisi nam ultrices libero non mattis pulvinar",
+    "latitude": 50.6026456,
+    "longitude": 17.0703956,
+    "status": "Operative",
+    "address": "394 Sherman Point"
+  },
+  {
+    "id": "c2f206e8-c9df-457c-9e05-777fc4b2a2a2",
+    "name": "Reynolds-Rohan",
+    "description": "cras pellentesque volutpat dui maecenas tristique est et tempus",
+    "latitude": 15.93786,
+    "longitude": 48.7864,
+    "status": "Dismissed",
+    "address": "55768 Myrtle Plaza"
+  },
+  {
+    "id": "14cf31eb-b9c8-49f9-b51b-c8011a5aa3f3",
+    "name": "Schmeler-Hane",
+    "description": "quis tortor id nulla ultrices aliquet maecenas leo odio condimentum",
+    "latitude": 14.5788472,
+    "longitude": 121.0143656,
+    "status": "Dismissed",
+    "address": "104 Artisan Hill"
+  },
+  {
+    "id": "b3626639-5347-4ccb-bc67-9f8fd88fe5f9",
+    "name": "Kerluke, Beatty and Stehr",
+    "description": "imperdiet nullam orci pede venenatis non sodales sed tincidunt",
+    "latitude": 1.1016277,
+    "longitude": 33.9303991,
+    "status": "Dismissed",
+    "address": "51 Manufacturers Center"
+  },
+  {
+    "id": "ba2f43fe-3419-4af7-b817-ca50a461b847",
+    "name": "Kilback, Halvorson and Greenfelder",
+    "description": "vulputate justo in blandit ultrices enim lorem ipsum dolor",
+    "latitude": 34.6870111,
+    "longitude": -5.4502624,
+    "status": "Operative",
+    "address": "38426 Ruskin Trail"
+  },
+  {
+    "id": "8e679948-4807-4fb2-ba0f-486b999a8f22",
+    "name": "Considine-O'Keefe",
+    "description": "rhoncus mauris enim leo rhoncus sed",
+    "latitude": 45.199035,
+    "longitude": 5.110871,
+    "status": "Idle",
+    "address": "3 Garrison Park"
+  },
+  {
+    "id": "8db918ee-5bd0-4eff-aa86-70b647b34912",
+    "name": "Labadie Group",
+    "description": "dictumst morbi vestibulum velit id pretium iaculis diam",
+    "latitude": 35.6131551,
+    "longitude": -97.6385368,
+    "status": "Dismissed",
+    "address": "4 Anniversary Pass"
+  },
+  {
+    "id": "938d8d43-f89a-4850-ba0a-59b2a2bb8758",
+    "name": "Ortiz, Kemmer and Ferry",
+    "description": "fermentum justo nec condimentum neque sapien placerat ante",
+    "latitude": -21.9718816,
+    "longitude": 16.9063491,
+    "status": "Dismissed",
+    "address": "46 Northridge Avenue"
+  },
+  {
+    "id": "20b6b2f0-26eb-4643-b98e-608d0f534aa4",
+    "name": "Gutkowski Group",
+    "description": "aliquet pulvinar sed nisl nunc rhoncus dui",
+    "latitude": -20.9827531,
+    "longitude": -48.0563942,
+    "status": "Idle",
+    "address": "12 Forster Terrace"
+  },
+  {
+    "id": "b56359fe-baff-45d0-badc-5b3021814ce1",
+    "name": "Rath-Dickens",
+    "description": "platea dictumst aliquam augue quam sollicitudin vitae consectetuer",
+    "latitude": -6.8057733,
+    "longitude": 107.5609228,
+    "status": "Operative",
+    "address": "228 Lyons Point"
+  },
+  {
+    "id": "8b071626-a708-4552-975c-45299a7c6332",
+    "name": "McKenzie-Welch",
+    "description": "ligula nec sem duis aliquam",
+    "latitude": 23.177772,
+    "longitude": 112.294107,
+    "status": "Dismissed",
+    "address": "4 Alpine Park"
+  },
+  {
+    "id": "6bbfe159-2496-4033-84a0-edcb10c8ca05",
+    "name": "Dibbert, Metz and O'Kon",
+    "description": "dictumst morbi vestibulum velit id pretium",
+    "latitude": 5.9411628,
+    "longitude": -56.9914585,
+    "status": "Operative",
+    "address": "7776 Scoville Point"
+  },
+  {
+    "id": "6424cb38-218b-4f5f-89ae-ee81fbdffc67",
+    "name": "Ratke-Rempel",
+    "description": "sit amet eleifend pede libero quis orci",
+    "latitude": 36.8603732,
+    "longitude": 137.4284822,
+    "status": "Dismissed",
+    "address": "70405 Village Hill"
+  },
+  {
+    "id": "e106f5d5-e872-498b-9659-7a226595b825",
+    "name": "Langworth Group",
+    "description": "convallis nunc proin at turpis a pede posuere",
+    "latitude": 39.109563,
+    "longitude": 117.223371,
+    "status": "Operative",
+    "address": "972 Rutledge Street"
+  },
+  {
+    "id": "efbc8ed8-b747-43ab-8215-f4001443812c",
+    "name": "Olson-Wyman",
+    "description": "nisi eu orci mauris lacinia sapien quis libero nullam",
+    "latitude": 0.0319573,
+    "longitude": -78.1507423,
+    "status": "Dismissed",
+    "address": "40 Memorial Parkway"
+  },
+  {
+    "id": "36868039-5c66-46ce-9f19-fdbc789d1f54",
+    "name": "Collier-Lesch",
+    "description": "adipiscing elit proin risus praesent lectus",
+    "latitude": 30.1942963,
+    "longitude": 120.1148934,
+    "status": "Dismissed",
+    "address": "56992 Springview Parkway"
+  },
+  {
+    "id": "2885f2e4-630e-4e1e-892a-212e37b108b4",
+    "name": "Goodwin, Hegmann and Prosacco",
+    "description": "cursus urna ut tellus nulla",
+    "latitude": 52.4379891,
+    "longitude": 20.6119813,
+    "status": "Idle",
+    "address": "7525 Knutson Circle"
+  },
+  {
+    "id": "f99fb792-980e-4ef5-81c5-7776efba4288",
+    "name": "Daugherty LLC",
+    "description": "ultrices mattis odio donec vitae nisi nam ultrices libero non",
+    "latitude": 35.83339,
+    "longitude": 102.6395,
+    "status": "Operative",
+    "address": "6363 Valley Edge Terrace"
+  },
+  {
+    "id": "e5630384-6019-4634-b7c1-bffb293adfb7",
+    "name": "Stamm, Grimes and Emmerich",
+    "description": "donec ut dolor morbi vel lectus in",
+    "latitude": 15.59861,
+    "longitude": 48.18278,
+    "status": "Operative",
+    "address": "964 Porter Parkway"
+  },
+  {
+    "id": "6f0e1c6d-d448-44ca-b6a0-6ebb03ab7f2f",
+    "name": "Bayer, Purdy and Runolfsson",
+    "description": "sagittis sapien cum sociis natoque penatibus",
+    "latitude": 32.060255,
+    "longitude": 118.796877,
+    "status": "Dismissed",
+    "address": "01 Goodland Alley"
+  },
+  {
+    "id": "720776e1-519d-4c56-9013-a1e2003a58f3",
+    "name": "Borer and Sons",
+    "description": "cum sociis natoque penatibus et magnis dis parturient montes",
+    "latitude": 58.3384893,
+    "longitude": 26.3128301,
+    "status": "Operative",
+    "address": "543 Porter Street"
+  },
+  {
+    "id": "67134d8c-21d7-4818-a0f6-097ffd5226c2",
+    "name": "Kautzer-Grimes",
+    "description": "sit amet eleifend pede libero",
+    "latitude": 53.6934353,
+    "longitude": 124.8109085,
+    "status": "Operative",
+    "address": "07 Graedel Alley"
+  },
+  {
+    "id": "6690bdbb-d8c7-48da-b9dc-25d8cc8b9658",
+    "name": "Bogisich-Will",
+    "description": "pellentesque volutpat dui maecenas tristique",
+    "latitude": 40.62889,
+    "longitude": 20.05389,
+    "status": "Dismissed",
+    "address": "6668 Farmco Terrace"
+  },
+  {
+    "id": "3df96e40-e266-46d5-8ed2-ab9edbeafa79",
+    "name": "Orn, Ullrich and Trantow",
+    "description": "tortor quis turpis sed ante vivamus tortor duis mattis egestas",
+    "latitude": 18.4489182,
+    "longitude": -69.9865207,
+    "status": "Operative",
+    "address": "7 2nd Crossing"
+  },
+  {
+    "id": "c6591b10-5f0f-4cb4-8b72-bef16f4ef619",
+    "name": "Tromp-Hilpert",
+    "description": "massa id lobortis convallis tortor risus dapibus augue",
+    "latitude": -8.3081,
+    "longitude": 113.4586,
+    "status": "Operative",
+    "address": "02 Canary Place"
+  },
+  {
+    "id": "692a231a-28f3-4fba-8612-3cc16ef40dfe",
+    "name": "Douglas, Borer and Renner",
+    "description": "parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum",
+    "latitude": 40.0911416,
+    "longitude": 44.3907546,
+    "status": "Dismissed",
+    "address": "32 Butterfield Crossing"
+  },
+  {
+    "id": "13e5c3ba-8089-444e-bbfb-cb5e8dc3446a",
+    "name": "Cartwright LLC",
+    "description": "justo etiam pretium iaculis justo",
+    "latitude": 62.9123239,
+    "longitude": 34.5739346,
+    "status": "Dismissed",
+    "address": "7 Dakota Park"
+  },
+  {
+    "id": "7817570c-c70c-4e50-87cb-cafeb26ac9a0",
+    "name": "Jones, Maggio and Schuster",
+    "description": "id justo sit amet sapien dignissim vestibulum vestibulum ante",
+    "latitude": -6.9175575,
+    "longitude": 111.5140386,
+    "status": "Operative",
+    "address": "187 Harbort Junction"
+  },
+  {
+    "id": "5cc4a6f4-6357-4ab0-8a55-ca586f907b3e",
+    "name": "Bins, Luettgen and Schmitt",
+    "description": "lacinia sapien quis libero nullam sit amet turpis",
+    "latitude": -37.0920575,
+    "longitude": -73.1545822,
+    "status": "Operative",
+    "address": "70 Larry Pass"
+  },
+  {
+    "id": "f5c55959-3b47-479f-b90d-8caecb49bfe8",
+    "name": "Schinner Group",
+    "description": "ipsum integer a nibh in quis justo",
+    "latitude": 41.0828211,
+    "longitude": 24.1908648,
+    "status": "Operative",
+    "address": "69 Swallow Court"
+  },
+  {
+    "id": "642f5c92-6343-4d7f-b10f-e7e37dd8bd04",
+    "name": "Mante-Reichert",
+    "description": "non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla",
+    "latitude": 12.2711071,
+    "longitude": 12.5807242,
+    "status": "Idle",
+    "address": "50 Carberry Way"
+  },
+  {
+    "id": "ac02e551-6dfa-4f07-937c-df138c8f07d0",
+    "name": "O'Keefe, Bernier and Cremin",
+    "description": "a nibh in quis justo maecenas rhoncus",
+    "latitude": 44.8205124,
+    "longitude": 33.6035054,
+    "status": "Operative",
+    "address": "55354 Thackeray Junction"
+  },
+  {
+    "id": "a6de3a14-ec07-4851-b6f7-8030f31a066e",
+    "name": "Becker-Christiansen",
+    "description": "ipsum praesent blandit lacinia erat vestibulum",
+    "latitude": 60.986717,
+    "longitude": 14.5654425,
+    "status": "Dismissed",
+    "address": "44890 Summer Ridge Drive"
+  },
+  {
+    "id": "609c43c4-5a90-42d7-86b2-66ed14989b40",
+    "name": "Willms Group",
+    "description": "sem fusce consequat nulla nisl nunc nisl duis",
+    "latitude": -8.1377539,
+    "longitude": 112.3158945,
+    "status": "Operative",
+    "address": "2018 Sachtjen Avenue"
+  },
+  {
+    "id": "23d81a1c-fd79-4c04-b8c3-5144efb17715",
+    "name": "Douglas-Heidenreich",
+    "description": "pede justo eu massa donec dapibus duis at velit",
+    "latitude": -39.6415998,
+    "longitude": -72.3370089,
+    "status": "Dismissed",
+    "address": "328 Vidon Pass"
+  },
+  {
+    "id": "eb10b08f-9c24-4f7d-96c5-e5bb4a844d08",
+    "name": "Torp, Morar and Pouros",
+    "description": "feugiat et eros vestibulum ac est lacinia nisi venenatis",
+    "latitude": 39.4113773,
+    "longitude": -8.803326,
+    "status": "Idle",
+    "address": "19048 Russell Lane"
+  },
+  {
+    "id": "d1437e26-ae5b-4833-96de-7a4a68cce91c",
+    "name": "Keeling, Prosacco and Monahan",
+    "description": "ut rhoncus aliquet pulvinar sed nisl nunc",
+    "latitude": -17.6817232,
+    "longitude": 178.8323025,
+    "status": "Idle",
+    "address": "21 Hazelcrest Plaza"
+  },
+  {
+    "id": "fbd69817-d773-4afc-8064-fa9ba28fe0e3",
+    "name": "Volkman-Trantow",
+    "description": "nisl duis ac nibh fusce lacus purus",
+    "latitude": 63.0741927,
+    "longitude": 25.8645193,
+    "status": "Idle",
+    "address": "7 Red Cloud Lane"
+  },
+  {
+    "id": "3f82f91c-6e4c-40cd-9edd-586f2e9e77a7",
+    "name": "Cassin, Ritchie and Bogan",
+    "description": "lobortis ligula sit amet eleifend",
+    "latitude": 35.3517729,
+    "longitude": 139.2972985,
+    "status": "Operative",
+    "address": "1593 Rusk Court"
+  },
+  {
+    "id": "afc0906d-7723-4f44-bb38-dae92e98996a",
+    "name": "Swift Group",
+    "description": "potenti cras in purus eu",
+    "latitude": -24.6,
+    "longitude": 26.43,
+    "status": "Idle",
+    "address": "3659 Erie Place"
+  },
+  {
+    "id": "7d589c18-400b-4773-a2d3-b7d734a3d32b",
+    "name": "King, Bauch and Kassulke",
+    "description": "mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus",
+    "latitude": 43.6356348,
+    "longitude": -84.2601444,
+    "status": "Idle",
+    "address": "674 Sage Lane"
+  },
+  {
+    "id": "ce0be0cd-9073-492c-b0ab-06192b231aa0",
+    "name": "Hayes-Botsford",
+    "description": "elementum ligula vehicula consequat morbi",
+    "latitude": 48.8809869,
+    "longitude": 2.2760839,
+    "status": "Idle",
+    "address": "2395 Blackbird Lane"
+  },
+  {
+    "id": "b8ecdbf3-549d-4e49-bde8-31a92dddd6d4",
+    "name": "Effertz, Ernser and Corkery",
+    "description": "elit ac nulla sed vel enim",
+    "latitude": 13.26831,
+    "longitude": 43.50993,
+    "status": "Operative",
+    "address": "357 Stone Corner Way"
+  },
+  {
+    "id": "3a5b0bf2-e35d-45b8-a8c5-f5db03258b77",
+    "name": "Nicolas-Weimann",
+    "description": "magna at nunc commodo placerat praesent blandit nam nulla integer",
+    "latitude": 12.4035699,
+    "longitude": 124.7689819,
+    "status": "Idle",
+    "address": "95 Mesta Drive"
+  },
+  {
+    "id": "09379a81-163c-467d-91bb-3a9a03f1af9a",
+    "name": "Schulist and Sons",
+    "description": "convallis tortor risus dapibus augue vel accumsan tellus",
+    "latitude": 57.6795423,
+    "longitude": 11.9809571,
+    "status": "Dismissed",
+    "address": "349 Gale Way"
+  },
+  {
+    "id": "13b7622c-58f0-4be0-835a-925f4e62315d",
+    "name": "Bashirian, Kessler and Gusikowski",
+    "description": "eu magna vulputate luctus cum",
+    "latitude": -2.8534379,
+    "longitude": 108.2941031,
+    "status": "Dismissed",
+    "address": "0047 Arkansas Park"
+  }
+]
