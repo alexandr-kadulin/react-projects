@@ -1,0 +1,804 @@
+{
+  "cars": [
+    {
+      "id": "70efcddd-fb7c-48f9-82c5-3a37ce797466",
+      "make": "Cadillac",
+      "vin": "5UXWX5C57BL080214",
+      "plate_number": "VIM 5145",
+      "cost": "$58064.43",
+      "photo": "http://dummyimage.com/100x100.png/ff4444/ffffff"
+    },
+    {
+      "id": "b35782ab-5258-4af5-b4df-f51e292a063b",
+      "make": "Audi",
+      "vin": "WBAEN33425P715087",
+      "plate_number": "KAR 8170",
+      "cost": "$21261.68",
+      "photo": "http://dummyimage.com/100x100.png/5fa2dd/ffffff"
+    },
+    {
+      "id": "dfa43581-62fa-4be9-8cff-87622d30d267",
+      "make": "Land Rover",
+      "vin": "WVGAV7AX3FW171207",
+      "plate_number": "APE 5432",
+      "cost": "$52566.90",
+      "photo": "http://dummyimage.com/100x100.png/dddddd/000000"
+    },
+    {
+      "id": "7071a8dc-5d51-47de-a408-ea859d2c3808",
+      "make": "Chevrolet",
+      "vin": "5N1BA0NC1FN316619",
+      "plate_number": "IJI 6039",
+      "cost": "$38794.54",
+      "photo": "http://dummyimage.com/100x100.png/5fa2dd/ffffff"
+    },
+    {
+      "id": "7c3a4561-2450-497b-994c-1cbc41027481",
+      "make": "GMC",
+      "vin": "1G4HE57Y17U138996",
+      "plate_number": "BEJ 2019",
+      "cost": "$56285.23",
+      "photo": "http://dummyimage.com/100x100.png/5fa2dd/ffffff"
+    },
+    {
+      "id": "94a1e838-100e-4bd1-a2a3-88f976c2faf1",
+      "make": "Chevrolet",
+      "vin": "WDDGF5EB8AR296702",
+      "plate_number": "GBX 5632",
+      "cost": "$44011.75",
+      "photo": "http://dummyimage.com/100x100.png/dddddd/000000"
+    },
+    {
+      "id": "1a383350-abde-424c-be67-b3b22e2a0ab6",
+      "make": "Suzuki",
+      "vin": "3GTU1YEJ2DG402568",
+      "plate_number": "OQI 6511",
+      "cost": "$44068.49",
+      "photo": "http://dummyimage.com/100x100.png/ff4444/ffffff"
+    },
+    {
+      "id": "9c16728f-2055-4d33-be8b-3763f7f9fcec",
+      "make": "Kia",
+      "vin": "1G4GC5GR5CF415156",
+      "plate_number": "GOK 8128",
+      "cost": "$24991.33",
+      "photo": "http://dummyimage.com/100x100.png/ff4444/ffffff"
+    },
+    {
+      "id": "dc33a977-9cd1-4372-9f59-6666dcd72da5",
+      "make": "Ford",
+      "vin": "1GYS3BEF9BR347392",
+      "plate_number": "VMS 4120",
+      "cost": "$57838.95",
+      "photo": "http://dummyimage.com/100x100.png/cc0000/ffffff"
+    },
+    {
+      "id": "fbd9e50d-f0e0-4dfd-86c4-e211d27d9346",
+      "make": "Mitsubishi",
+      "vin": "JHMGE8G25AS285689",
+      "plate_number": "TYK 0810",
+      "cost": "$53716.70",
+      "photo": "http://dummyimage.com/100x100.png/cc0000/ffffff"
+    },
+    {
+      "id": "4e6b6d98-dc24-488b-b4b7-aef69114d5a6",
+      "make": "Cadillac",
+      "vin": "WBAFU9C57CD230459",
+      "plate_number": "LJU 9433",
+      "cost": "$37198.29",
+      "photo": "http://dummyimage.com/100x100.png/dddddd/000000"
+    },
+    {
+      "id": "305738bf-763e-4909-8365-294a229e0e1d",
+      "make": "Volkswagen",
+      "vin": "1G6DM5ED9B0014676",
+      "plate_number": "CAL 8221",
+      "cost": "$21244.39",
+      "photo": "http://dummyimage.com/100x100.png/cc0000/ffffff"
+    },
+    {
+      "id": "dceea05c-c842-4a21-9471-f98f669d3963",
+      "make": "Chevrolet",
+      "vin": "WP0AA2A91AS423556",
+      "plate_number": "BEO 0378",
+      "cost": "$36510.68",
+      "photo": "http://dummyimage.com/100x100.png/cc0000/ffffff"
+    },
+    {
+      "id": "4fac4530-f111-4418-9b73-baedc140af4f",
+      "make": "Chevrolet",
+      "vin": "1GD22XEG5FZ278426",
+      "plate_number": "INK 6310",
+      "cost": "$32360.50",
+      "photo": "http://dummyimage.com/100x100.png/5fa2dd/ffffff"
+    },
+    {
+      "id": "a65b5794-bd7e-431d-93d6-c2b5ad94f9f3",
+      "make": "Hyundai",
+      "vin": "JA32X2HU6EU996278",
+      "plate_number": "QXN 5159",
+      "cost": "$43011.22",
+      "photo": "http://dummyimage.com/100x100.png/cc0000/ffffff"
+    },
+    {
+      "id": "35c83e44-2a54-40e3-8d5e-b7b38db8d0c2",
+      "make": "Lincoln",
+      "vin": "JTJHY7AX0E4892604",
+      "plate_number": "MAW 8002",
+      "cost": "$59299.28",
+      "photo": "http://dummyimage.com/100x100.png/ff4444/ffffff"
+    },
+    {
+      "id": "da779abf-7ddd-499b-9510-4f0cf9ef1c59",
+      "make": "Aptera",
+      "vin": "JH4CU2F82EC655825",
+      "plate_number": "AFU 2013",
+      "cost": "$29757.50",
+      "photo": "http://dummyimage.com/100x100.png/5fa2dd/ffffff"
+    },
+    {
+      "id": "69f5bf95-a145-4d0d-8c2f-79b5ad514213",
+      "make": "Nissan",
+      "vin": "1G4GE5E38CF429741",
+      "plate_number": "PNC 8839",
+      "cost": "$31836.24",
+      "photo": "http://dummyimage.com/100x100.png/cc0000/ffffff"
+    },
+    {
+      "id": "f913b71b-1423-472e-98ae-62eee28977ae",
+      "make": "Chrysler",
+      "vin": "WBABW33454P805669",
+      "plate_number": "OFK 5432",
+      "cost": "$32403.54",
+      "photo": "http://dummyimage.com/100x100.png/5fa2dd/ffffff"
+    },
+    {
+      "id": "5c29cb74-9aad-4512-8e3e-f01f3c5a4fc1",
+      "make": "GMC",
+      "vin": "4T1BF1FK0FU226462",
+      "plate_number": "QBK 6049",
+      "cost": "$30005.06",
+      "photo": "http://dummyimage.com/100x100.png/dddddd/000000"
+    },
+    {
+      "id": "a38444ca-e39a-42a3-9f7e-6b6e74d37401",
+      "make": "Subaru",
+      "vin": "WAUKF78EX7A816053",
+      "plate_number": "SGC 8520",
+      "cost": "$35824.57",
+      "photo": "http://dummyimage.com/100x100.png/dddddd/000000"
+    },
+    {
+      "id": "4aa72f4f-8dba-4943-934c-da9bf2449b39",
+      "make": "Dodge",
+      "vin": "YV1672MC5CJ979755",
+      "plate_number": "YYE 1652",
+      "cost": "$26289.19",
+      "photo": "http://dummyimage.com/100x100.png/5fa2dd/ffffff"
+    },
+    {
+      "id": "3357a378-2b50-4a39-b931-23d8d628a986",
+      "make": "Volvo",
+      "vin": "3N1CN7APXDL251798",
+      "plate_number": "NND 9501",
+      "cost": "$37812.15",
+      "photo": "http://dummyimage.com/100x100.png/ff4444/ffffff"
+    },
+    {
+      "id": "b5f0461a-3e96-46f1-9db4-fbfb83108b97",
+      "make": "Lincoln",
+      "vin": "SCBZK25E82C958633",
+      "plate_number": "LFQ 8294",
+      "cost": "$27740.04",
+      "photo": "http://dummyimage.com/100x100.png/ff4444/ffffff"
+    },
+    {
+      "id": "3cd4fdf3-0be2-4214-b20a-66d8f6a2ea31",
+      "make": "BMW",
+      "vin": "2T1BURHEXEC518941",
+      "plate_number": "EQD 1263",
+      "cost": "$23754.38",
+      "photo": "http://dummyimage.com/100x100.png/ff4444/ffffff"
+    },
+    {
+      "id": "8bfc5216-58cb-41fb-839d-6a43f8b373fa",
+      "make": "Mazda",
+      "vin": "WBAKF9C57CE793336",
+      "plate_number": "TYO 0239",
+      "cost": "$22855.40",
+      "photo": "http://dummyimage.com/100x100.png/ff4444/ffffff"
+    },
+    {
+      "id": "7d79c63c-3ca0-434e-9758-cb8455e1140a",
+      "make": "Ram",
+      "vin": "WAUAF68E85A673543",
+      "plate_number": "MYE 3207",
+      "cost": "$40338.80",
+      "photo": "http://dummyimage.com/100x100.png/dddddd/000000"
+    },
+    {
+      "id": "ec7f863a-f701-4783-ad98-6ce106683e72",
+      "make": "Jaguar",
+      "vin": "1G6DC1E35C0346442",
+      "plate_number": "JRH 0664",
+      "cost": "$32744.51",
+      "photo": "http://dummyimage.com/100x100.png/5fa2dd/ffffff"
+    },
+    {
+      "id": "2a55d642-fd4b-4870-9e10-e6a58ba2fe76",
+      "make": "Oldsmobile",
+      "vin": "JN1CV6EK6CM836293",
+      "plate_number": "AVJ 4115",
+      "cost": "$41969.71",
+      "photo": "http://dummyimage.com/100x100.png/dddddd/000000"
+    },
+    {
+      "id": "9bc88ff1-76d8-465f-af6a-d4ae870d606f",
+      "make": "Cadillac",
+      "vin": "WAUAFAFL6CN754101",
+      "plate_number": "DKS 6008",
+      "cost": "$33646.12",
+      "photo": "http://dummyimage.com/100x100.png/cc0000/ffffff"
+    },
+    {
+      "id": "4c8a4c8a-3d75-4980-a57e-305e5bb1f95d",
+      "make": "Infiniti",
+      "vin": "1G6AB5RX3D0179686",
+      "plate_number": "DFK 2673",
+      "cost": "$36239.03",
+      "photo": "http://dummyimage.com/100x100.png/5fa2dd/ffffff"
+    },
+    {
+      "id": "7e1c4896-12e4-486c-8967-ff6f52e3ae6a",
+      "make": "MINI",
+      "vin": "WBADX7C50CE832746",
+      "plate_number": "XVR 3403",
+      "cost": "$23629.88",
+      "photo": "http://dummyimage.com/100x100.png/ff4444/ffffff"
+    },
+    {
+      "id": "4b9849a9-e7f7-450b-b8f6-4774a7bc8cdc",
+      "make": "Lincoln",
+      "vin": "1G4GH5E35DF006995",
+      "plate_number": "WLR 2074",
+      "cost": "$41907.83",
+      "photo": "http://dummyimage.com/100x100.png/cc0000/ffffff"
+    },
+    {
+      "id": "510b5c01-1236-4156-8dae-ea2561df4c1c",
+      "make": "BMW",
+      "vin": "1G6DD8E31E0019853",
+      "plate_number": "NHE 6298",
+      "cost": "$48142.76",
+      "photo": "http://dummyimage.com/100x100.png/dddddd/000000"
+    },
+    {
+      "id": "66f68a3e-7f85-404e-a57e-9608f46d53fa",
+      "make": "Mitsubishi",
+      "vin": "1C4RDHDG0EC045916",
+      "plate_number": "FDZ 8113",
+      "cost": "$29709.09",
+      "photo": "http://dummyimage.com/100x100.png/cc0000/ffffff"
+    },
+    {
+      "id": "6f252c08-394c-4925-b85c-7ea91df4c404",
+      "make": "Aston Martin",
+      "vin": "1FBNE3BL2DD227531",
+      "plate_number": "IEN 6506",
+      "cost": "$42584.65",
+      "photo": "http://dummyimage.com/100x100.png/dddddd/000000"
+    },
+    {
+      "id": "8a247df8-53fa-401d-a97b-072933d0cd46",
+      "make": "Hyundai",
+      "vin": "4T3BA3BB1CU781584",
+      "plate_number": "UCI 5332",
+      "cost": "$20813.25",
+      "photo": "http://dummyimage.com/100x100.png/5fa2dd/ffffff"
+    },
+    {
+      "id": "0d9b23dc-749e-40eb-a7d3-91bff89bc9ad",
+      "make": "Buick",
+      "vin": "1C3CCBABXCN842047",
+      "plate_number": "OEL 4176",
+      "cost": "$26983.97",
+      "photo": "http://dummyimage.com/100x100.png/dddddd/000000"
+    },
+    {
+      "id": "cccfbb29-7ec9-4cdc-93ad-d6ad62a0250b",
+      "make": "Ford",
+      "vin": "JTDJTUD35ED813924",
+      "plate_number": "TGE 2231",
+      "cost": "$56994.91",
+      "photo": "http://dummyimage.com/100x100.png/ff4444/ffffff"
+    },
+    {
+      "id": "448dedb2-4304-41b6-a1bf-e0d0055b46bb",
+      "make": "Mercury",
+      "vin": "19UUA56751A160131",
+      "plate_number": "AGA 0956",
+      "cost": "$27716.28",
+      "photo": "http://dummyimage.com/100x100.png/ff4444/ffffff"
+    },
+    {
+      "id": "cc33973b-b2d5-4ace-bca3-1b069d1ab526",
+      "make": "Honda",
+      "vin": "1FTSW2A55AE320834",
+      "plate_number": "EJB 9899",
+      "cost": "$59084.50",
+      "photo": "http://dummyimage.com/100x100.png/ff4444/ffffff"
+    },
+    {
+      "id": "04df0b98-f0e1-4aca-9a9f-6fe5bc5295d8",
+      "make": "Kia",
+      "vin": "SAJWA4EC7CM082048",
+      "plate_number": "WOQ 6912",
+      "cost": "$28178.91",
+      "photo": "http://dummyimage.com/100x100.png/dddddd/000000"
+    },
+    {
+      "id": "085698fa-863c-4cf7-86b4-739d2c2e1b48",
+      "make": "Mitsubishi",
+      "vin": "JM1NC2LFXE0009224",
+      "plate_number": "RAY 8592",
+      "cost": "$22414.28",
+      "photo": "http://dummyimage.com/100x100.png/cc0000/ffffff"
+    },
+    {
+      "id": "dc1d3d52-255d-48da-9bca-4b4bb0bd7dd4",
+      "make": "Volkswagen",
+      "vin": "1G6DX67D770971468",
+      "plate_number": "OPG 6420",
+      "cost": "$31663.75",
+      "photo": "http://dummyimage.com/100x100.png/dddddd/000000"
+    },
+    {
+      "id": "1beffdd8-e223-4218-9bc3-a8b2a73fa7f6",
+      "make": "Toyota",
+      "vin": "WBA3G7C57FK731303",
+      "plate_number": "JFA 8312",
+      "cost": "$21266.41",
+      "photo": "http://dummyimage.com/100x100.png/5fa2dd/ffffff"
+    },
+    {
+      "id": "d89057d4-f77e-44a2-8978-a4173d91f8bc",
+      "make": "Porsche",
+      "vin": "WAU3FAFR5AA117640",
+      "plate_number": "XEH 6698",
+      "cost": "$57765.39",
+      "photo": "http://dummyimage.com/100x100.png/5fa2dd/ffffff"
+    },
+    {
+      "id": "660cfdf6-f810-498d-85d7-916dae992f94",
+      "make": "Lincoln",
+      "vin": "5N1CR2MN7EC755071",
+      "plate_number": "GTR 1984",
+      "cost": "$28358.37",
+      "photo": "http://dummyimage.com/100x100.png/ff4444/ffffff"
+    },
+    {
+      "id": "1bcae925-e45d-4bf2-b86f-d89c52d9ddd5",
+      "make": "BMW",
+      "vin": "1FTEW1CM0EK511158",
+      "plate_number": "HCI 2360",
+      "cost": "$40545.31",
+      "photo": "http://dummyimage.com/100x100.png/cc0000/ffffff"
+    },
+    {
+      "id": "07835e9d-2ecb-4751-b601-1d73622e8ea1",
+      "make": "Toyota",
+      "vin": "WVGEF9BP4FD594916",
+      "plate_number": "KPH 3452",
+      "cost": "$41138.74",
+      "photo": "http://dummyimage.com/100x100.png/dddddd/000000"
+    },
+    {
+      "id": "208b79c0-4694-4782-946e-25eea4e7068f",
+      "make": "Pontiac",
+      "vin": "5J8TB3H35DL675615",
+      "plate_number": "KXT 1299",
+      "cost": "$55806.91",
+      "photo": "http://dummyimage.com/100x100.png/5fa2dd/ffffff"
+    },
+    {
+      "id": "c63042e8-8a59-4150-8f81-37819de12d28",
+      "make": "Chrysler",
+      "vin": "SCBGR3ZA5CC841917",
+      "plate_number": "JCV 6533",
+      "cost": "$41164.20",
+      "photo": "http://dummyimage.com/100x100.png/5fa2dd/ffffff"
+    },
+    {
+      "id": "90c45d37-4086-4bf3-9f26-c2d71d005b9a",
+      "make": "Nissan",
+      "vin": "1C3BCBFG6EN848432",
+      "plate_number": "NTV 5390",
+      "cost": "$50834.86",
+      "photo": "http://dummyimage.com/100x100.png/dddddd/000000"
+    },
+    {
+      "id": "8df0ae5c-1a15-4c43-8277-087511a2759f",
+      "make": "Mitsubishi",
+      "vin": "5GADV33L05D832241",
+      "plate_number": "NYH 1815",
+      "cost": "$45405.94",
+      "photo": "http://dummyimage.com/100x100.png/dddddd/000000"
+    },
+    {
+      "id": "858bf1f3-c310-41be-b362-885de098721e",
+      "make": "Land Rover",
+      "vin": "WVGEP9BP0FD047641",
+      "plate_number": "NKR 6413",
+      "cost": "$29231.07",
+      "photo": "http://dummyimage.com/100x100.png/ff4444/ffffff"
+    },
+    {
+      "id": "c97f1d50-464d-43d2-b642-985b7c51e93c",
+      "make": "Pontiac",
+      "vin": "JH4DC53892C891798",
+      "plate_number": "XJE 1220",
+      "cost": "$23779.67",
+      "photo": "http://dummyimage.com/100x100.png/ff4444/ffffff"
+    },
+    {
+      "id": "5530db56-4102-4109-8a06-f5b58330c063",
+      "make": "GMC",
+      "vin": "3VW1K7AJXCM696220",
+      "plate_number": "QTA 8265",
+      "cost": "$21467.50",
+      "photo": "http://dummyimage.com/100x100.png/cc0000/ffffff"
+    },
+    {
+      "id": "7a9c0c3a-a7b6-4ec3-ac45-6b7e94a27ed8",
+      "make": "Kia",
+      "vin": "5XYKT3A16DG080865",
+      "plate_number": "NDD 6000",
+      "cost": "$25336.65",
+      "photo": "http://dummyimage.com/100x100.png/5fa2dd/ffffff"
+    },
+    {
+      "id": "8c8b1eb5-1676-45ea-a28f-765b8545a6f9",
+      "make": "Acura",
+      "vin": "1N6AF0LX9FN751571",
+      "plate_number": "RPH 6250",
+      "cost": "$28629.60",
+      "photo": "http://dummyimage.com/100x100.png/dddddd/000000"
+    },
+    {
+      "id": "2f5e3a8d-5df3-4dd6-a131-231f11bc3958",
+      "make": "Chevrolet",
+      "vin": "WBA3B3C50FJ688064",
+      "plate_number": "WIZ 5189",
+      "cost": "$53428.98",
+      "photo": "http://dummyimage.com/100x100.png/dddddd/000000"
+    },
+    {
+      "id": "d6ba8196-f40e-49aa-99e7-16ce46a05680",
+      "make": "BMW",
+      "vin": "1G4HP54KX24741299",
+      "plate_number": "XWO 4252",
+      "cost": "$34077.97",
+      "photo": "http://dummyimage.com/100x100.png/5fa2dd/ffffff"
+    },
+    {
+      "id": "42f15458-4024-40f5-983b-fbdf0fb9b33c",
+      "make": "Mazda",
+      "vin": "1G6DS8EV6A0945361",
+      "plate_number": "DRN 3676",
+      "cost": "$42976.97",
+      "photo": "http://dummyimage.com/100x100.png/cc0000/ffffff"
+    },
+    {
+      "id": "e2d443de-01ee-4583-bd73-2c675eccfe6c",
+      "make": "Acura",
+      "vin": "JHMFA3F23AS245154",
+      "plate_number": "OCZ 8085",
+      "cost": "$39851.93",
+      "photo": "http://dummyimage.com/100x100.png/cc0000/ffffff"
+    },
+    {
+      "id": "5eac1ea4-2a8e-42af-a48a-26147c3d563b",
+      "make": "Hyundai",
+      "vin": "19VDE1F57EE437366",
+      "plate_number": "BVL 5971",
+      "cost": "$42420.27",
+      "photo": "http://dummyimage.com/100x100.png/dddddd/000000"
+    },
+    {
+      "id": "11ce2c35-360b-4ca0-998c-611dae40fd19",
+      "make": "Honda",
+      "vin": "5FPYK1F21DB877641",
+      "plate_number": "EHE 3022",
+      "cost": "$51868.43",
+      "photo": "http://dummyimage.com/100x100.png/ff4444/ffffff"
+    },
+    {
+      "id": "7abfd0ea-77af-4fa5-88d4-d8a18819ba99",
+      "make": "Pontiac",
+      "vin": "WBA3R5C54FF245281",
+      "plate_number": "CKT 7118",
+      "cost": "$25447.30",
+      "photo": "http://dummyimage.com/100x100.png/ff4444/ffffff"
+    },
+    {
+      "id": "c9854107-fa0f-4e31-865c-4698d6f00975",
+      "make": "Chevrolet",
+      "vin": "1D7RW3GK5BS571446",
+      "plate_number": "SZB 4055",
+      "cost": "$39788.59",
+      "photo": "http://dummyimage.com/100x100.png/cc0000/ffffff"
+    },
+    {
+      "id": "c31a5244-74f5-4af1-92c3-dfe55fccd6f6",
+      "make": "Mercury",
+      "vin": "JTDJTUD33ED474967",
+      "plate_number": "KCR 4954",
+      "cost": "$45727.33",
+      "photo": "http://dummyimage.com/100x100.png/cc0000/ffffff"
+    },
+    {
+      "id": "8f92c305-76ea-48d1-8e54-6edcdb849e18",
+      "make": "GMC",
+      "vin": "WAUML54B93N728714",
+      "plate_number": "QSV 7897",
+      "cost": "$59691.70",
+      "photo": "http://dummyimage.com/100x100.png/dddddd/000000"
+    },
+    {
+      "id": "28702d83-fc20-404c-887c-c1b84a5152d3",
+      "make": "Cadillac",
+      "vin": "WAURV78T88A736168",
+      "plate_number": "ODT 8951",
+      "cost": "$45379.51",
+      "photo": "http://dummyimage.com/100x100.png/ff4444/ffffff"
+    },
+    {
+      "id": "cc096a8c-9814-406b-bc78-331efd08e059",
+      "make": "Infiniti",
+      "vin": "WVWED7AJ5BW565046",
+      "plate_number": "YAH 2443",
+      "cost": "$44447.44",
+      "photo": "http://dummyimage.com/100x100.png/ff4444/ffffff"
+    },
+    {
+      "id": "163db20e-cb70-4680-bc57-e40fa59027ba",
+      "make": "Land Rover",
+      "vin": "3N1AB7AP8FY641983",
+      "plate_number": "WMB 8655",
+      "cost": "$30722.19",
+      "photo": "http://dummyimage.com/100x100.png/ff4444/ffffff"
+    },
+    {
+      "id": "ca7edda0-4fd2-4d2a-ab75-8d0ca31c98a1",
+      "make": "Buick",
+      "vin": "1FTEX1CM1BF683538",
+      "plate_number": "AME 5835",
+      "cost": "$22906.35",
+      "photo": "http://dummyimage.com/100x100.png/cc0000/ffffff"
+    },
+    {
+      "id": "c67ecd7d-7c11-4b2d-9037-1d9fe0e3f0de",
+      "make": "Buick",
+      "vin": "1FTSW3B55AE671070",
+      "plate_number": "HZU 4441",
+      "cost": "$40849.60",
+      "photo": "http://dummyimage.com/100x100.png/ff4444/ffffff"
+    },
+    {
+      "id": "113b8113-8f70-4e9b-b441-eac4919a12fc",
+      "make": "Maserati",
+      "vin": "1FTEW1CF4FF953503",
+      "plate_number": "TUF 1219",
+      "cost": "$51997.11",
+      "photo": "http://dummyimage.com/100x100.png/dddddd/000000"
+    },
+    {
+      "id": "731b5df5-544d-4a71-ba4d-5c63dfb7a071",
+      "make": "Infiniti",
+      "vin": "5GAKRBKD0DJ981796",
+      "plate_number": "ICX 2471",
+      "cost": "$54862.28",
+      "photo": "http://dummyimage.com/100x100.png/5fa2dd/ffffff"
+    },
+    {
+      "id": "ec408d30-f81f-4cc9-9675-c0334d459d8c",
+      "make": "Ford",
+      "vin": "3VWF17AT8FM091451",
+      "plate_number": "DWC 8885",
+      "cost": "$50691.86",
+      "photo": "http://dummyimage.com/100x100.png/dddddd/000000"
+    },
+    {
+      "id": "3ba2dd43-c1ef-4848-8b76-5610fca4f375",
+      "make": "Jeep",
+      "vin": "WAUAF78E66A514415",
+      "plate_number": "MJW 6970",
+      "cost": "$52412.25",
+      "photo": "http://dummyimage.com/100x100.png/ff4444/ffffff"
+    },
+    {
+      "id": "828d9964-15d7-4bd4-ad66-92325a16eb0a",
+      "make": "Lincoln",
+      "vin": "3LN6L2G94ER887526",
+      "plate_number": "YLZ 3326",
+      "cost": "$46419.70",
+      "photo": "http://dummyimage.com/100x100.png/ff4444/ffffff"
+    },
+    {
+      "id": "c0b178e1-cf69-48fd-ab05-75d09292aeed",
+      "make": "Infiniti",
+      "vin": "5J6TF2H59FL743166",
+      "plate_number": "OSC 9092",
+      "cost": "$57583.71",
+      "photo": "http://dummyimage.com/100x100.png/cc0000/ffffff"
+    },
+    {
+      "id": "dedd943b-b96d-485e-89bd-db825bd821ab",
+      "make": "Land Rover",
+      "vin": "WBAGH83481D584398",
+      "plate_number": "FYR 4998",
+      "cost": "$54366.64",
+      "photo": "http://dummyimage.com/100x100.png/cc0000/ffffff"
+    },
+    {
+      "id": "111dc4e6-43e5-4cdc-82e7-8e8aedfd0c2a",
+      "make": "Toyota",
+      "vin": "SAJWA6A75F8434593",
+      "plate_number": "UHK 9279",
+      "cost": "$38753.41",
+      "photo": "http://dummyimage.com/100x100.png/ff4444/ffffff"
+    },
+    {
+      "id": "a09d6a3e-5873-4564-9565-2ff1d46414b9",
+      "make": "Porsche",
+      "vin": "3C4PDCAB0DT209879",
+      "plate_number": "GPI 9614",
+      "cost": "$32810.21",
+      "photo": "http://dummyimage.com/100x100.png/cc0000/ffffff"
+    },
+    {
+      "id": "a025a81c-c0e4-498b-9533-531a7e0ac34b",
+      "make": "Lotus",
+      "vin": "3VW517AT7FM001072",
+      "plate_number": "CXY 9934",
+      "cost": "$43224.65",
+      "photo": "http://dummyimage.com/100x100.png/dddddd/000000"
+    },
+    {
+      "id": "03402535-f56c-431e-acbd-784aaa37d076",
+      "make": "Dodge",
+      "vin": "SAJWA4FC4EM166796",
+      "plate_number": "SGV 7179",
+      "cost": "$52493.51",
+      "photo": "http://dummyimage.com/100x100.png/dddddd/000000"
+    },
+    {
+      "id": "fc5355ae-7898-466b-9ccb-804ee505ce72",
+      "make": "Ford",
+      "vin": "2C3CCAJG9EH921193",
+      "plate_number": "EZZ 4611",
+      "cost": "$29224.45",
+      "photo": "http://dummyimage.com/100x100.png/cc0000/ffffff"
+    },
+    {
+      "id": "2745183d-993c-450f-b591-e809cc99def8",
+      "make": "Saturn",
+      "vin": "3VWKX8AJXBM035068",
+      "plate_number": "SHZ 6246",
+      "cost": "$50975.54",
+      "photo": "http://dummyimage.com/100x100.png/dddddd/000000"
+    },
+    {
+      "id": "c43f16c6-6c7f-4c4b-a74b-3917faf3cabd",
+      "make": "Mercedes-Benz",
+      "vin": "1D7CW7GPXAS126207",
+      "plate_number": "QAA 8083",
+      "cost": "$35531.63",
+      "photo": "http://dummyimage.com/100x100.png/5fa2dd/ffffff"
+    },
+    {
+      "id": "1ce5e045-6080-4f36-a80f-70d6e0e2a545",
+      "make": "Corbin",
+      "vin": "JN1AZ4FH9FM624267",
+      "plate_number": "ZZL 1812",
+      "cost": "$31612.03",
+      "photo": "http://dummyimage.com/100x100.png/dddddd/000000"
+    },
+    {
+      "id": "277a7b9c-4ddd-49bc-bfff-683f473babc5",
+      "make": "Acura",
+      "vin": "JTJHY7AXXF4654289",
+      "plate_number": "BEN 1323",
+      "cost": "$35351.59",
+      "photo": "http://dummyimage.com/100x100.png/5fa2dd/ffffff"
+    },
+    {
+      "id": "ae941981-aa2f-4809-ad16-c4ee5ea24ee5",
+      "make": "Ford",
+      "vin": "4A31K2DF4AE110821",
+      "plate_number": "IXC 7041",
+      "cost": "$28236.33",
+      "photo": "http://dummyimage.com/100x100.png/cc0000/ffffff"
+    },
+    {
+      "id": "99b3be88-dfa8-49ec-8074-b3200467d04f",
+      "make": "Nissan",
+      "vin": "1N6BF0KLXFN652874",
+      "plate_number": "YYJ 3049",
+      "cost": "$51730.00",
+      "photo": "http://dummyimage.com/100x100.png/5fa2dd/ffffff"
+    },
+    {
+      "id": "ca0c707a-634e-4306-b30b-faff8097d8bb",
+      "make": "Chevrolet",
+      "vin": "WVGAV7AXXBW594134",
+      "plate_number": "EGH 3238",
+      "cost": "$35323.21",
+      "photo": "http://dummyimage.com/100x100.png/dddddd/000000"
+    },
+    {
+      "id": "8a6469c5-114e-4c1d-87dc-fff966a12dd3",
+      "make": "GMC",
+      "vin": "WBA3B5C53EF213702",
+      "plate_number": "VQU 5943",
+      "cost": "$44646.57",
+      "photo": "http://dummyimage.com/100x100.png/5fa2dd/ffffff"
+    },
+    {
+      "id": "001f5f55-96a6-489d-a3b2-f57dcb2de045",
+      "make": "Suzuki",
+      "vin": "JA32X8HWXCU944878",
+      "plate_number": "RQX 8871",
+      "cost": "$51832.07",
+      "photo": "http://dummyimage.com/100x100.png/dddddd/000000"
+    },
+    {
+      "id": "a0f67ad8-6949-40f9-b340-f4d128edf950",
+      "make": "Chevrolet",
+      "vin": "WA1DGBFE8BD590403",
+      "plate_number": "XZM 8101",
+      "cost": "$38835.52",
+      "photo": "http://dummyimage.com/100x100.png/cc0000/ffffff"
+    },
+    {
+      "id": "e3c77354-a953-42fa-9e94-f8e4f641494b",
+      "make": "Mazda",
+      "vin": "WVGEG9BP1CD581257",
+      "plate_number": "VKB 8528",
+      "cost": "$58508.68",
+      "photo": "http://dummyimage.com/100x100.png/cc0000/ffffff"
+    },
+    {
+      "id": "dc459638-787e-4acd-9f03-de365b90265c",
+      "make": "Jeep",
+      "vin": "WUARL48H15K421935",
+      "plate_number": "SLD 9864",
+      "cost": "$31670.73",
+      "photo": "http://dummyimage.com/100x100.png/ff4444/ffffff"
+    },
+    {
+      "id": "5d4d5591-9d6f-405c-b8cd-50622f83fcee",
+      "make": "Chevrolet",
+      "vin": "WVGEF9BP2FD442715",
+      "plate_number": "FRP 6211",
+      "cost": "$37030.13",
+      "photo": "http://dummyimage.com/100x100.png/cc0000/ffffff"
+    },
+    {
+      "id": "ed88c495-7d81-42c1-964b-660b1f1fed47",
+      "make": "Ford",
+      "vin": "1G6AB5RA1F0129190",
+      "plate_number": "HXE 0083",
+      "cost": "$34453.58",
+      "photo": "http://dummyimage.com/100x100.png/ff4444/ffffff"
+    },
+    {
+      "id": "1fc600be-906e-4eb6-98cd-084909561986",
+      "make": "GMC",
+      "vin": "1GKS1AE07DR861153",
+      "plate_number": "AYG 2127",
+      "cost": "$46964.97",
+      "photo": "http://dummyimage.com/100x100.png/ff4444/ffffff"
+    }
+  ]
+}
