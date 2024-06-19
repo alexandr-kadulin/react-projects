@@ -1,8 +1,8 @@
 import React, { useState } from "react";
-import data from "./data";
-import List from "./List";
+import data from "../data";
+import { List } from "./";
 
-function App() {
+export const App = () => {
   const [people, setPeople] = useState(data);
 
   return (
@@ -14,6 +14,4 @@ function App() {
       </section>
     </main>
   );
-}
-
-export default App;
+};
